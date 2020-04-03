@@ -2,9 +2,8 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs
-/Backup
-/bin/debug
-/obj/Debug
-/packages/Newtonsoft.Json.12.0.3
-/PortableKeePass
+.vs
+src/bin/debug
+src/obj/Debug
+src/packages
+PortableKeePass
